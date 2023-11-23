@@ -1,0 +1,34 @@
+header {
+    background-color: #51025a;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+/* Define margem e preenchimento como zero para todos os elementos */
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+    }
+* {
+    margin: 10;
+    padding: 10;
+    }
+    .cabecalho {
+    background-color: #5f0466; /* Define a cor de fundo */
+    color: rgb(9, 221, 98)* Define a cor do texto como branco */
+    display: flex; /* Usa um layout flexível */
+    justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
+    align-items: center; /* Alinha os elementos filhos */
+    padding: 24px 0; /* Preenchimento superior e inferior como 24px e 0 nas laterais */
+.cabecalho-imagem{
+    width:10%;
+}
+*  {
+    margin: 0,1%;
+    padding: 0,1%;
+}
+.cabecalho
